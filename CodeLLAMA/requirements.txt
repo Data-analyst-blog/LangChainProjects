@@ -1,0 +1,61 @@
+# --- Core ML & Analysis (From your scripts) ---
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+category-encoders
+xgboost
+lightgbm
+catboost
+scikit-optimize
+numexpr
+
+# --- LangChain & LLM Framework (From your list) ---
+langchain
+python-dotenv
+langchain-classic
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-chroma
+openai
+
+# --- Vector Stores & Embeddings ---
+chromadb
+faiss-cpu
+sentence-transformers
+cassio
+datasets
+tiktoken
+
+# --- HuggingFace ------
+huggingface_hub
+
+# --- Data Fetching & Parsing ---
+pypdf
+pyPDF2
+pymupdf
+beautifulsoup4
+arxiv
+wikipedia
+duckdb
+duckduckgo-search==5.3.1b1
+youtube-transcript-api
+pytube
+unstructured
+
+# --- Database & API ---
+openai
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+
+# --- Streamlit ---
+streamlit
+streamlit-chat
+
+# ----- Gradio ----
+gradio
